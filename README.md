@@ -92,7 +92,3 @@ Feel free to contribute to this project by:
 2. Creating your feature branch
 3. Committing your changes
 4. Creating a pull request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
